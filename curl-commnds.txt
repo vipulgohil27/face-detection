@@ -1,0 +1,3 @@
+curl -X 'POST'   'http://localhost:8000/expand_acronyms/'   -H 'Content-Type: application/json'   -d '{"sentence": "OMG I cant believe this LOL"}'
+
+curl -X 'POST'  'https://2236-34-75-52-43.ngrok-free.app/expand_acronyms/'   -H 'Content-Type: application/json'   -d '{"sentence": "OMG this is awesome LOL"}'
