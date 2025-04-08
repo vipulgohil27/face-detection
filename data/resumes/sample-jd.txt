@@ -1,0 +1,30 @@
+Responsibilities:
+
+
+
+Hands-On Development: Lead by example through direct involvement in coding, troubleshooting, and removing obstacles to deliver technological solutions that align with our product vision.
+Tech & Solution Architecture: Design architectural solutions that cater to the business needs and use cases, assessing various technical approaches and making informed decisions.
+Global Team Player: Adapt to working with teams spread across different locations, leveraging distributed workforce strategies effectively.
+
+
+Qualifications:
+
+
+
+A Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+A minimum of 6 years in a leadership role within a development team
+Comprehensive full-stack development knowledge and hands-on Java experience. Ruby experience is a plus.
+Experience with launching consumer web and mobile products.
+A proven track record of developing and launching high-quality software products.
+Experience with scalable projects involving cloud-based infrastructure design and deployment.
+Proficiency in managing deadlines, budgets, and multiple project timelines in a test-driven, collaborative, and iterative programming environment.
+Expertise in version control software, such as GIT, and development workflow best practices.
+Experience in scaling data-driven solutions in sectors like fintech, logistics, or marketplaces is highly desirable.
+
+
+Personal Attributes:
+
+An entrepreneurial spirit with a drive to thrive in startup environments, facing challenges head-on while open to learning and guidance.
+Exceptional communication and analytical skills, capable of solving complex problems.
+A collaborative nature, willing to share ideas, accept feedback, and enhance the contributions of team members.
+Proven ability to influence and inspire both technical and non-technical stakeholders at all levels.
